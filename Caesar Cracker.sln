@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caesar Cracker", "Caesar Cracker\Caesar Cracker.csproj", "{C2A49617-D2DA-4DBE-A398-931B528166CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2A49617-D2DA-4DBE-A398-931B528166CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A49617-D2DA-4DBE-A398-931B528166CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A49617-D2DA-4DBE-A398-931B528166CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A49617-D2DA-4DBE-A398-931B528166CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16FC9AB0-2CF2-448A-B1C2-D220309645EC}
+	EndGlobalSection
+EndGlobal
